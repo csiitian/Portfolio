@@ -19,7 +19,7 @@ function TitleSection() {
         </div>
       </div>
       <div className="md:flex-1 flex justify-center md:justify-end">
-        <img src="/images/profile-image.jpg" alt="Profile" className="w-48 h-48 md:w-64 md:h-64 rounded-full border-4 border-indigo-500 shadow-lg" />
+        <img src="./images/profile-image.jpg" alt="Profile" className="w-48 h-48 md:w-64 md:h-64 rounded-full border-4 border-indigo-500 shadow-lg" />
       </div>
     </header>
   );
